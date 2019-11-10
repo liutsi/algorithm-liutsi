@@ -1,0 +1,2 @@
+# algorithm-liutsi
+some exercises
